@@ -1,3 +1,4 @@
 # iAQUA
-codes used for the iAQUA project
-The languages used in this project are C for the codes run in the Arty Z7 and python for all the other codes
+codes used for the interface
+graph_csv.py: graphs all the csv files inside a folder.
+graph_final.py: receives data through mqtt writes into a csv file and graphs it, all in real time.
