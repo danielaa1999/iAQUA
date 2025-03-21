@@ -5,3 +5,5 @@ csv_calibration.py:take imb data find the stable regions, match it to the corres
 graph_csv: graph all the data inside a csv file.
 
 graph_stable: graph the stable parts and match it to the correpsonding voltage.
+
+proccess_offset_iaqua.py: To find the offset that gives the closer to 0 for each isfet,as the test was done applying no voltage.
