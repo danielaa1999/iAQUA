@@ -7,3 +7,5 @@ graph_csv: graph all the data inside a csv file.
 graph_stable: graph the stable parts and match it to the correpsonding voltage.
 
 proccess_offset_iaqua.py: To find the offset that gives the closer to 0 for each isfet,as the test was done applying no voltage.
+
+microSD.py: Process the binary data written in the txt filein the  microSD when running the code.
